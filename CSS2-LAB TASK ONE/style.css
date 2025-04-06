@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(222, 203, 203);
+}
+
+h2,h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4{
+    font-family:'Times New Roman', Times, serif;
+}
+
+a{
+    padding-left: 350px;
+    text-decoration-style: none;
+}
+
+a:hover{
+    cursor: pointer;
+    color:blueviolet;
+}
+
+#obj{
+    text-align: justify;
+}
+
+#sk{
+    padding-left: 30px;
+}
+
+#p{
+    padding-left: 30px;
+}
+
+#edu{
+    padding-left: 30px;
+}
